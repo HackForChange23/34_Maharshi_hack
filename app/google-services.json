@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "483777220577",
+    "project_id": "hackthon-1c9a5",
+    "storage_bucket": "hackthon-1c9a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483777220577:android:438c075e41f4cdf2544ca0",
+        "android_client_info": {
+          "package_name": "com.example.hack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483777220577-f56rqasq56c91thenqg9ot9l7afv9u8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAUYmckxhwxRTCRuGIeaFbLQBRes7oN2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483777220577-f56rqasq56c91thenqg9ot9l7afv9u8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483777220577:android:f9f15deba25503ba544ca0",
+        "android_client_info": {
+          "package_name": "com.hasslewithnans.hack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483777220577-f56rqasq56c91thenqg9ot9l7afv9u8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAUYmckxhwxRTCRuGIeaFbLQBRes7oN2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483777220577-f56rqasq56c91thenqg9ot9l7afv9u8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
