@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "190887587232",
+    "project_id": "hack-83dd2",
+    "storage_bucket": "hack-83dd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190887587232:android:b77f8a413b0c6d406548c5",
+        "android_client_info": {
+          "package_name": "com.hack.nansisfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190887587232-8opqm8tr0gc332956se14dq66bd4o1hh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-fjps9XFxUkjYHsB7C4wEvw2--5L-khE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190887587232-8opqm8tr0gc332956se14dq66bd4o1hh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
